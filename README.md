@@ -1,6 +1,6 @@
 # SpamML
 
-**[March 2020 update] Won special mention
+**[March 2020 update] Won special mention.**
 https://www.algoexpert.io/swe-project-contests/winter-2020
 
 **AlgoExpert winter 2020 submission.**
