@@ -1,5 +1,8 @@
 # SpamML
 
+**[March 2020 update] Won special mention
+https://www.algoexpert.io/swe-project-contests/winter-2020
+
 **AlgoExpert winter 2020 submission.**
 
 https://www.youtube.com/watch?v=5-in3VOlvu4&feature=youtu.be
